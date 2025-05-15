@@ -1,0 +1,13 @@
+flask
+torch>=1.7.0
+torchvision
+Pillow
+numpy
+opencv-python
+matplotlib
+pyyaml
+tqdm
+requests
+seaborn
+pandas
+scipy
