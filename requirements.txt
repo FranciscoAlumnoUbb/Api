@@ -4,10 +4,8 @@ torchvision
 Pillow
 numpy
 opencv-python
-matplotlib
 pyyaml
 tqdm
 requests
-seaborn
 pandas
 scipy
