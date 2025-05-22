@@ -1,8 +1,23 @@
+# Carpetas locales que se generan en tiempo de ejecución
 model/
 uploads/
 results/
 __pycache__/
+
+# Archivos temporales y compilados
 *.pyc
+*.pyo
+*.log
+
+# Configuración privada
 .env
+
+# Archivos ocultos de sistemas operativos
 .DS_Store
-cl
+
+# Cache de herramientas específicas
+.cl
+
+# Entornos virtuales locales (si existiera uno)
+.venv/
+venv/
